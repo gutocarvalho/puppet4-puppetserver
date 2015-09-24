@@ -16,7 +16,7 @@ Esse módulo instala e configura o Puppet Server do Puppet 4.2 em ambiente CentO
 
 ## Compatibilidade
 
-Esse módulo é compatível com CentOS 7.x.
+Esse módulo é compatível com CentOS >= 7
 
 Esse módulo foi escrito usando recursos do Puppet 4.x.
 
